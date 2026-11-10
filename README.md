@@ -1,6 +1,6 @@
 # Project Link
 https://app.fabric.microsoft.com/links/LEmKnCtHwu?ctid=b1ecfa5f-bf5c-4d47-8691-c39477ec0ac6&pbi_source=linkShare&bookmarkGuid=008438a7-121e-442a-bc16-b931ec4149a4
-![Uploading Screenshot_10-11-2026_14450_app.fabric.microsoft.com.jpeg…]()
+<img width="1341" height="720" alt="Screenshot_10-11-2026_14450_app fabric microsoft com" src="https://github.com/user-attachments/assets/5423e78d-c356-4fb3-a4d4-e6d3cbf1ac8d" />
 
 
 # Cheltenham Festival 2026 Racing Intelligence Platform (Microsoft Fabric Gen2)
